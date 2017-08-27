@@ -149,7 +149,7 @@
 				TargetAttributes = {
 					D14EA7151F5301A900FC326C = {
 						CreatedOnToolsVersion = 8.3.3;
-						DevelopmentTeam = E2T7T7WYNN;
+						DevelopmentTeam = 9TK2B56AHR;
 						ProvisioningStyle = Automatic;
 					};
 					D14EA72C1F5301A900FC326C = {
@@ -347,7 +347,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = E2T7T7WYNN;
+				DEVELOPMENT_TEAM = 9TK2B56AHR;
 				INFOPLIST_FILE = FoodTracker/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = net.AppITWorks.FoodTracker;
@@ -360,7 +360,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = E2T7T7WYNN;
+				DEVELOPMENT_TEAM = 9TK2B56AHR;
 				INFOPLIST_FILE = FoodTracker/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = net.AppITWorks.FoodTracker;
